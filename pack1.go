@@ -1,3 +1,3 @@
-package file2
+package pack1
 
 var exported = "manish"

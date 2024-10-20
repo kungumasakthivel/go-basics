@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"pack1"
 )
 
 var ex = "hello"
